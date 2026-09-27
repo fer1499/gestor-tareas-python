@@ -1,0 +1,46 @@
+
+=== GESTOR DE TAREAS ===
+1. Agregar tarea
+2. Listar tareas
+3. Marcar tarea como completada
+4. Salir
+Selecciona una opción: Escribe la nueva tarea: Tarea agregada con ID 1.
+
+=== GESTOR DE TAREAS ===
+1. Agregar tarea
+2. Listar tareas
+3. Marcar tarea como completada
+4. Salir
+Selecciona una opción: Escribe la nueva tarea: Tarea agregada con ID 2.
+
+=== GESTOR DE TAREAS ===
+1. Agregar tarea
+2. Listar tareas
+3. Marcar tarea como completada
+4. Salir
+Selecciona una opción: 1. Comprar víveres [Pendiente]
+2. Estudiar Singleton [Pendiente]
+
+=== GESTOR DE TAREAS ===
+1. Agregar tarea
+2. Listar tareas
+3. Marcar tarea como completada
+4. Salir
+Selecciona una opción: 1. Comprar víveres [Pendiente]
+2. Estudiar Singleton [Pendiente]
+ID de la tarea a completar: Tarea marcada como completada.
+
+=== GESTOR DE TAREAS ===
+1. Agregar tarea
+2. Listar tareas
+3. Marcar tarea como completada
+4. Salir
+Selecciona una opción: 1. Comprar víveres [Completada]
+2. Estudiar Singleton [Pendiente]
+
+=== GESTOR DE TAREAS ===
+1. Agregar tarea
+2. Listar tareas
+3. Marcar tarea como completada
+4. Salir
+Selecciona una opción: Tareas guardadas. Hasta luego.

@@ -1,0 +1,8 @@
+test_add_task (test_task_manager.TestTaskManager.test_add_task) ... ok
+test_complete_nonexistent_task (test_task_manager.TestTaskManager.test_complete_nonexistent_task) ... ok
+test_complete_task (test_task_manager.TestTaskManager.test_complete_task) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.005s
+
+OK
